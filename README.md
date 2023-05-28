@@ -1,7 +1,7 @@
-<h1 align="center">3DEVOPS Storytelling</h1>
+<h1 align="center">3DEVOPS</h1>
 
 <p align="center">
-    <img src="https://your-image-url.com" alt="3DEVOPS Storytelling Logo">
+    <img src="[https://your-image-url.com](https://w7.pngwing.com/pngs/401/951/png-transparent-devops-software-developer-agile-software-development-software-testing-puppet-icon-devops-logo-text-logo-engineering.png)" alt="3DEVOPSLogo">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Welcome to the 3DEVOPS Storytelling repository! This repository documents the incredible journey of three passionate co-workers who joined forces with a common objective: to learn DevOps. Together, they will explore the realms of cloud computing, infrastructure as code, and Python automation, sharing their experiences, knowledge, and code along the way.
+Welcome to the 3DEVOPS repository! This repository documents the incredible journey of three passionate co-workers who joined forces with a common objective: to learn DevOps. Together, they will explore the realms of cloud computing, infrastructure as code, and Python automation, sharing their experiences, knowledge, and code along the way.
 
 ## Table of Contents
 
