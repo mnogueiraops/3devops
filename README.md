@@ -1,7 +1,7 @@
 <h1 align="center">3DEVOPS</h1>
 
 <p align="center">
-    <img src="https://your-image-url.com](https://w7.pngwing.com/pngs/401/951/png-transparent-devops-software-developer-agile-software-development-software-testing-puppet-icon-devops-logo-text-logo-engineering.png" alt="3DEVOPSLogo">
+    <img src="https://w7.pngwing.com/pngs/401/951/png-transparent-devops-software-developer-agile-software-development-software-testing-puppet-icon-devops-logo-text-logo-engineering.png" alt="3DEVOPSLogo">
 </p>
 
 <p align="center">
